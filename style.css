@@ -28,4 +28,10 @@ canvas{
     border: 2px solid white;
     border-radius: 23px;
     box-shadow: 5px 5px 15px white;
+    margin-top: 350px;
+}
+
+#input_box{
+    width: 250px;
+    border-radius: 10px;
 }
